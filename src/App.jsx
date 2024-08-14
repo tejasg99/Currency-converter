@@ -32,7 +32,7 @@ function App() {
         <nav className='bg-transparent text-slate-100 flex justify-center px-10 py-4'>
             <div className='flex justify-between items-center w-[40%]'>
                 <h1 className='text-xl font-bold'>Currency converter</h1>
-                <a href=""><img className='invert w-8' src="./github.png" alt="" /></a>
+                <a href="https://github.com/tejasg99/Currency-converter"><img className='invert w-8' src="./github.png" alt="" /></a>
             </div>
 
         </nav>
